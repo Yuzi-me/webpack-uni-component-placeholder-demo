@@ -18,6 +18,12 @@ yarn dev:mp-weixin
 yarn build
 ```
 
-### Customize configuration
+# 🏕 示例
 
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### webpack 版
+
+<a href="https://github.com/Yuzi-me/webpack-uni-component-placeholder-demo" target="_blank">webpack-uni-component-placeholder-demo</a>
+
+### vite 版
+
+<a href="https://github.com/Yuzi-me/vite-uni-component-placeholder-demo" target="_blank">vite-uni-component-placeholder-demo</a>
